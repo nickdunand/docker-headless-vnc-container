@@ -2,8 +2,8 @@
 
 FROM centos:7
 
-MAINTAINER Tobias Schneck "tobias.schneck@consol.de"
-ENV REFRESHED_AT 2018-03-27
+MAINTAINER Nicholas Dunand "nicholas.dunand@adcubum.com"
+ENV REFRESHED_AT 2018-09-18
 
 LABEL io.k8s.description="Headless VNC Container with Xfce window manager, firefox and chromium" \
       io.k8s.display-name="Headless VNC Container based on Centos" \
